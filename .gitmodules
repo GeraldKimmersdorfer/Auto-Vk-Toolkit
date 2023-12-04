@@ -1,3 +1,4 @@
 [submodule "auto_vk"]
 	path = auto_vk
 	url = https://github.com/GeraldKimmersdorfer/Auto-Vk.git
+	branch = master
